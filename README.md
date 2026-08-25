@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔥 Junior Lab Assistant at BINUS University and a curious developer learning the ropes of full-stack web development.<br>Currently exploring new tech, picking up skills piece by piece, and trying to enjoy the process (barely).<br>If you enjoy coding, tech talk, or chaotic debugging sessions.. same lmao
+🔥 Lab Assistant at BINUS University and a curious developer learning the ropes of full-stack web development.<br>Currently exploring new tech, picking up skills piece by piece, and trying to enjoy the process (barely).<br>If you enjoy coding, tech talk, or chaotic debugging sessions.. same lmao
 
 
 ## 🌐 Socials:
